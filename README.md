@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ido</h1>
 <h3 align="center">A passionate data scientist from Berlin</h3>
 
-- 🔭 I’m currently working on **coming soon**
+- 🔭 I’m currently working on and exciting Stable diffusion project to make it more useful for artists.
 
-- 👯 I’m looking to collaborate on **coming soon**
+- 👯 I’m looking to collaborate on a project about deep learning face emotion classification
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at (coming soon)
 
 - 💬 Ask me about **Everything, but mostly: music industry, film industry, data, python, crypto, royalties, video editing, sound engineering, basically anything...**
 
 - 📫 How to reach me **idokuncode@gmail.com**
-
-- 📄 Know about my experiences [coming soon](coming soon)
 
 - ⚡ Fun fact **I released very weird albums, can you find them?**
 
