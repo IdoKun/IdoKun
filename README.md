@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ido</h1>
 <h3 align="center">A passionate data scientist from Berlin</h3>
 
-- 🔭 I’m currently working on and exciting Stable diffusion project to make it more useful for artists.
+- 🔭 I’m currently working on an exciting Stable diffusion project to make it more useful for artists.
 
 - 👯 I’m looking to collaborate on a project about deep learning face emotion classification
 
