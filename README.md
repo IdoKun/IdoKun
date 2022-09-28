@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on a project about deep learning face emotion classification
 
-- 👨‍💻 All of my projects are available at (coming soon)
-
 - 💬 Ask me about **Everything, but mostly: music industry, film industry, data, python, crypto, royalties, video editing, sound engineering, basically anything...**
 
 - 📫 How to reach me **idokuncode@gmail.com**
