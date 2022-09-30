@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ido</h1>
 <h3 align="center">A passionate data scientist from Berlin</h3>
 
-- 🔭 I’m currently working on an exciting Stable diffusion project to make it more useful for artists.
+- 🔭 I’m currently working on project about deep learning face emotion classification.
 
-- 👯 I’m looking to collaborate on a project about deep learning face emotion classification
+- 👯 I’m looking to collaborate on an exciting Stable diffusion project to make it more useful for artists.
 
 - 💬 Ask me about **Everything, but mostly: music industry, film industry, data, python, crypto, royalties, video editing, sound engineering, basically anything...**
 
